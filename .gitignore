@@ -36,3 +36,4 @@ local.properties
 /.project
 /.classpath
 /.metadata
+/build/maps/hello_source.map
