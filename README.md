@@ -1,4 +1,6 @@
 Available commands:
+#0:
+    npm install
 #1:
     npm run build
 
