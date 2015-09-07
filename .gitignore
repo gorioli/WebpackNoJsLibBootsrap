@@ -1,3 +1,4 @@
+build/
 # vim editing
 *.swp
 .tern-port

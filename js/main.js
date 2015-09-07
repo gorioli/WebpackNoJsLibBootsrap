@@ -1,1 +1,2 @@
-document.write(require("./content.js"));
+var helper = require("./content.js");
+helper.sayHello("Olga");
